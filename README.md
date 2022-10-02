@@ -5,7 +5,7 @@ This is a beta stock market advisor. While there is a lot left to be done, it do
 I have always been interested in the stock market and I don't want to have to pay for something to help me, so I wanted to make something that would do that for free.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0LrOgNW55co)
 
 # Development Environment
 
